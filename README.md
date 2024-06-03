@@ -34,7 +34,7 @@ The **Air Parameter Monitoring System** is an IoT and MERN (MongoDB, Express.js,
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/air-parameter-monitoring-system.git
+   git clone https://github.com/nimesh-korat/Air-Parameter-Monitoring-System.git
    cd air-parameter-monitoring-system
    ```
 
